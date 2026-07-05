@@ -78,15 +78,15 @@ HR-Analytics-Dashboard
 
 ### Overview
 
-![Overview](screenshots/Overview.png)
+![Overview](Overview.png)
 
 ### Employee Analysis
 
-![Employee Analysis](screenshots/Employee_Analysis.png)
+![Employee Analysis](Employee_Analysis.png)
 
 ### Business Insights
 
-![Business Insights](screenshots/Business_Insights.png)
+![Business Insights](Business_Insights.png)
 
 ---
 
