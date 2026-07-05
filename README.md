@@ -22,7 +22,7 @@ This project is an interactive HR Analytics Dashboard built using Power BI, MySQ
 - Total Employees: 1470
 - Total Attrition: 237
 - Attrition Rate: 16.12%
-- Average Monthly Income: ₹6,503
+- Average Monthly Income: 6,503
 
 ---
 
@@ -52,7 +52,7 @@ This project is an interactive HR Analytics Dashboard built using Power BI, MySQ
 
 - Employees working overtime have 30.53% attrition.
 - Employees below 25 years have the highest attrition (39.18%).
-- Employees earning below ₹3K/month leave most frequently.
+- Employees earning below $3K per month leave most frequently.
 - Human Resources has the highest education field attrition.
 - Sales department has the highest department attrition.
 - Low job satisfaction strongly impacts employee retention.
